@@ -1,0 +1,24 @@
+122698-Gold loan irregularity report for the previous 12months and a daily report
+__________________________________________________________________________________________
+
+
+
+This project aims to create a mail automation excel report on gold loan irregularities for the previous 12 months, 
+as well as a daily report. The purpose of this report is to identify any irregularities in the gold loan process.
+
+Features
+----------
+Programming language:Python
+Query               :PLSQL
+Server              :10.0.0.112
+Department          :Audit Research Wing
+User                :Amurtha Unnikrishnan
+Developers          :Dinesh(Tableau),Dibin TR(Python)
+Code runtime        :8.30am  
+Running file name   :mail.py
+
+
+
+
+
+
